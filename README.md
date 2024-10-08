@@ -38,7 +38,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 <table>
 <tr>
-  <td><img src="link_to_image" alt="SAML-D" width="120"/></td>
+  <td><img src="assets/DALL·E 2023-12-20 17.40.36 - A minimalistic and abstract concept_ a blue background with a few US dollar bills placed randomly. The bills are partially unfolded and placed in a wa.png" alt="SAML-D" width="120"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Synthetic AML Transaction Dataset (SAML-D)</a></strong><br/>
     Created a dataset to mimic real-world money laundering transactions, supporting researchers in developing better AML tools.<br/>
