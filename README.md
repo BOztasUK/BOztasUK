@@ -53,7 +53,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 <table>
 <tr>
-  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/7687b8e3cd709ad8f61e445f98bdc6433f0214fa/assets/download.jpeg" alt="RAG Application" width="290"/></td>
+  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/78d72c8f6d6551b71403b6f81b3ce6c2a7fe6c89/assets/2023-11-Retrieval-augmented-generation-what-it-is-and-why-its-a-hot-topic-for-enterprise-AI-Blog-1.webp" alt="RAG Application" width="120"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/RAG-Langchain-OpenAI-Chromabd-Streamlit">RAG Application on Financial Data</a></strong><br/>
     RAG: Langchain + OpenAI + Chroma + Streamlit is an interactive app for document analysis and question-answering. It supports various document formats, processes data efficiently, and uses embeddings for precise information retrieval. With a user-friendly Streamlit interface, it allows multi-document handling, context-aware responses, real-time feedback, and cost estimation, making it ideal for analyzing complex reports like the Bank of England’s Financial Stability Report.<br/>
