@@ -73,7 +73,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 <table>
 <tr>
-  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/7687b8e3cd709ad8f61e445f98bdc6433f0214fa/assets/0_MdQptZxTpAALXfsv.png" alt="Local RAG" width="240"/></td>
+  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/7687b8e3cd709ad8f61e445f98bdc6433f0214fa/assets/0_MdQptZxTpAALXfsv.png" alt="Local RAG" width="220"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Local-RAG">Simple Local RAG</a></strong><br/>
     This project is a hands-on exploration of learning and building a Retrieval-Augmented Generation (RAG) pipeline from scratch, focusing on understanding the core components without relying on major frameworks.<br/>
