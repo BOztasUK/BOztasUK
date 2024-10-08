@@ -18,7 +18,7 @@ Collaborated with Danske Bank on AI models for transaction monitoring, presented
 - **Professional Experience**: Lecturer on Artificial Intelligence module, research collaborations with industry (Danske Bank), finance internship experience.
 - **Technical Skills**: Python, Pandas, Numpy, PyTorch, Scikit-Learn, LangChain, PostgreSQL, Vector Databases, Streamlit.
 - **Key Interests**: AI, machine learning, and data science, with a strong emphasis on practical, real-world applications, particularly leveraging data-driven models to solve complex problems and drive innovation.
-- **Currently Learning**: Expanding knowledge in **AWS** and **AI agents**. 
+- **Currently Learning**: Expanding knowledge in **AWS** and **AI agents** (LangGraph). 
 
 I am passionate about making complex models understandable and useful to stakeholders, and I enjoy bridging gaps between research, business, and application.
 
