@@ -27,7 +27,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 <table>
 <tr>
-  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/3d80c2f45deabf85debf3cedd66474e460716ba5/assets/business-concept-on-the-tablet-is-a-sheet-of-paper-with-the-inscription-aml-and-stickers-with-the-inscription-anti-money-laundering-next-to-the-2M5CCBK.jpg" alt="Tab-AML" width="120"/></td>
+  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/3d80c2f45deabf85debf3cedd66474e460716ba5/assets/business-concept-on-the-tablet-is-a-sheet-of-paper-with-the-inscription-aml-and-stickers-with-the-inscription-anti-money-laundering-next-to-the-2M5CCBK.jpg" alt="Tab-AML" width="150"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Transaction-Monitoring-Project">Tab-AML: Enhancing Money Laundering Detection</a></strong><br/>
     Developed an AI model that improved detection AUC score to 93%, reducing false alarms by 17%, and allowing banks to focus on high-risk activities.<br/>
