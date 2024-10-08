@@ -28,7 +28,7 @@ Explore some of my key projects below, or see the full list in my [project portf
   <td><img src="link_to_image" alt="Tab-AML" width="120"/></td>
   <td>
     <strong><a href="link_to_github_repository">Tab-AML: Enhancing Money Laundering Detection</a></strong><br/>
-    Developed an AI model that improved detection AUC score to 93%, reducing false alarms by 17%, allowing banks to focus on high-risk activities.<br/>
+    Developed an AI model that improved detection AUC score to 93%, reducing false alarms by 17%, and allowing banks to focus on high-risk activities.<br/>
     <a href="link_to_github_repository">Explore the Repository</a>
   </td>
 </tr>
@@ -104,14 +104,6 @@ Explore some of my key projects below, or see the full list in my [project portf
   *Credential ID: NM3JTDJ5MUEN*.
 
 - **[Machine Learning](#)** - Stanford University (via Coursera), Issued May 2022
-
----
-
-## 🛠️ Tech Stack & Tools
-
-| Languages | Libraries & Frameworks | Tools & Platforms |
-| --- | --- | --- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
 
 ---
 
