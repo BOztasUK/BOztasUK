@@ -56,7 +56,7 @@ Explore some of my key projects below, or see the full list in my [project portf
   <td><img src="link_to_image" alt="RAG Application" width="120"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/RAG-Langchain-OpenAI-Chromabd-Streamlit">RAG Application on Financial Data</a></strong><br/>
-    Conducted clustering analysis on global mortality data to uncover significant trends in healthcare disparities across countries.<br/>
+    RAG: Langchain + OpenAI + Chroma + Streamlit is an interactive app for document analysis and question-answering. It supports various document formats, processes data efficiently, and uses embeddings for precise information retrieval. With a user-friendly Streamlit interface, it allows multi-document handling, context-aware responses, real-time feedback, and cost estimation, making it ideal for analyzing complex reports like the Bank of England’s Financial Stability Report.<br/>
     <a href="https://github.com/BOztasUK/RAG-Langchain-OpenAI-Chromabd-Streamlit">Explore the Repository</a>
   </td>
 </tr>
@@ -69,7 +69,7 @@ Explore some of my key projects below, or see the full list in my [project portf
   <td><img src="link_to_image" alt="Local RAG" width="120"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Local-RAG">Simple Local RAG</a></strong><br/>
-    Applied a convolutional neural network to identify anomalous patterns in transaction datasets, improving fraud detection.<br/>
+    This project is a hands-on exploration of building a Retrieval-Augmented Generation (RAG) pipeline from scratch, focusing on understanding the core components without relying on major frameworks.<br/>
     <a href="https://github.com/BOztasUK/Local-RAG">Explore the Repository</a>
   </td>
 </tr>
