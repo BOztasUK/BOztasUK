@@ -10,6 +10,11 @@ I am a **PhD Candidate and Data Scientist** with a focus on **advanced deep lear
 
 I thrive in roles where I can leverage data to solve critical problems and create solutions with real-world impact, particularly in financial systems and fintech. I have worked closely with **Danske Bank** to research AI models for transaction monitoring, presented research at international conferences, and created synthetic datasets now used by other researchers.
 
+**PhD in Computer Science** researching **advanced deep learning techniques for anti-money laundering**, with a **First-Class Honours BSc in Mathematics with Finance and Accounting** from Queen Mary University of London. Experienced in developing and deploying machine learning models across both academic and industry environments.
+
+Collaborated with Danske Bank on AI models for transaction monitoring, presented research at international conferences, and created synthetic datasets now used by other researchers. Focused on leveraging data to solve complex problems and drive impactful solutions.
+
+
 ### 🔬 Background & Skills
 
 - **Academic Background**: PhD in Computer Science, specialising in anti-money laundering and AI model development.
