@@ -73,6 +73,20 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
+---
+
+<table>
+<tr>
+  <td><img src="link_to_image" alt="Local RAG" width="120"/></td>
+  <td>
+    <strong><a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Classify Weightlifting Exercises</a></strong><br/>
+    Applied a convolutional neural network to identify anomalous patterns in transaction datasets, improving fraud detection.<br/>
+    <a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Explore the Repository</a>
+  </td>
+</tr>
+</table>
+
+
 
 
 ## 📜 Key Publications & Presentations
