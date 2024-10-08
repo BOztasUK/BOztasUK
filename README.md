@@ -91,7 +91,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 - **[Best Student Paper Award](#)** - 2023 IEEE International Conference on E-Business Engineering  
   *Awarded for: "Enhancing Anti-Money Laundering: Development of a Synthetic Transaction Monitoring Dataset"*.
 
-- **[Research Student Presentation Competition Winner](#)** - 2022 IEEE International Conference on E-Business Engineering  
+- **[Research Student Presentation Competition Winner](https://github.com/BOztasUK/BOztasUK/blob/cb8438e8280f2095d8277af9853f2636dcf3023c/assets/1666034474415.pdf)** - 2022 IEEE International Conference on E-Business Engineering  
   *Awarded for: "Enhancing Transaction Monitoring Controls to Detect Money Laundering Using Machine Learning"*.
 
 - **[PyTorch for Deep Learning Bootcamp](#)** - Zero to Mastery, Issued Oct 2024  
