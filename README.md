@@ -12,45 +12,67 @@ I thrive in roles where I can leverage data to solve critical problems and creat
 ### 🔬 Background & Skills
 
 - **Academic Background**: PhD in Computer Science, specialising in anti-money laundering and AI model development.
-- **Professional Experience**: Visiting Lecturer on AI, research collaborations with industry (Danske Bank), finance internship experience.
-- **Technical Skills**: Python, Pandas, Numpy, PyTorch, Scikit-Learn, PostgreSQL, Chromadb, Streamlit, SQL.
-- **Key Interests**: Transaction monitoring, deep learning, feature engineering, and applying AI in finance.
+- **Professional Experience**: Lecturer on Artificial Intelligence module, research collaborations with industry (Danske Bank), finance internship experience.
+- **Technical Skills**: Python, Pandas, Numpy, PyTorch, Scikit-Learn, LangChain, PostgreSQL, Vector Databases, Streamlit.
+- **Key Interests**: AI, machine learning, and data science, with a strong emphasis on practical, real-world applications, particularly leveraging data-driven models to solve complex problems and drive innovation.
 
 I am passionate about making complex models understandable and useful to stakeholders, and I enjoy bridging gaps between research, business, and application.
 
 ---
-
 ## 📈 Portfolio
 
 Explore some of my key projects below, or see the full list in my [project portfolio](https://github.com/BOztasUK).
 
-#### ![Tab-AML](link_to_image)  
-**[Tab-AML: Enhancing Money Laundering Detection](link_to_github_repository)**  
-Developed an AI model that improved detection AUC score to 93%, reducing false alarms by 17%, allowing banks to focus on high-risk activities.  
-[Explore the Repository](link_to_github_repository) 
+<table>
+<tr>
+  <td><img src="link_to_image" alt="Tab-AML" width="120"/></td>
+  <td>
+    <strong><a href="link_to_github_repository">Tab-AML: Enhancing Money Laundering Detection</a></strong><br/>
+    Developed an AI model that improved detection AUC score to 93%, reducing false alarms by 17%, allowing banks to focus on high-risk activities.<br/>
+    <a href="link_to_github_repository">Explore the Repository</a>
+  </td>
+</tr>
+</table>
 
 ---
 
-#### ![SAML-D](link_to_image)  
-**[Synthetic AML Transaction Dataset (SAML-D)](link_to_github_repository)**  
-Created a dataset to mimic real-world money laundering transactions, supporting researchers in developing better AML tools.  
-[Explore the Repository](link_to_github_repository) | [Kaggle](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml)
+<table>
+<tr>
+  <td><img src="link_to_image" alt="SAML-D" width="120"/></td>
+  <td>
+    <strong><a href="link_to_github_repository">Synthetic AML Transaction Dataset (SAML-D)</a></strong><br/>
+    Created a dataset to mimic real-world money laundering transactions, supporting researchers in developing better AML tools.<br/>
+    <a href="link_to_github_repository">Explore the Repository</a> | <a href="https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml">Kaggle</a>
+  </td>
+</tr>
+</table>
 
 ---
 
-#### ![Clustering Analysis](link_to_image)  
-**[Clustering Analysis on Global Cancer Mortality Data](link_to_github_repository)**  
-Conducted clustering analysis on global mortality data to uncover significant trends in healthcare disparities across countries.  
-[Explore the Repository](link_to_github_repository)
+<table>
+<tr>
+  <td><img src="link_to_image" alt="Clustering Analysis" width="120"/></td>
+  <td>
+    <strong><a href="link_to_github_repository">Clustering Analysis on Global Cancer Mortality Data</a></strong><br/>
+    Conducted clustering analysis on global mortality data to uncover significant trends in healthcare disparities across countries.<br/>
+    <a href="link_to_github_repository">Explore the Repository</a>
+  </td>
+</tr>
+</table>
 
 ---
 
-#### ![Anomalous Transactions](link_to_image)  
-**[Detecting Anomalous Transactions with Deep Learning](link_to_github_repository)**  
-Applied a convolutional neural network to identify anomalous patterns in transaction datasets, improving fraud detection.  
-[Explore the Repository](link_to_github_repository)
+<table>
+<tr>
+  <td><img src="link_to_image" alt="Anomalous Transactions" width="120"/></td>
+  <td>
+    <strong><a href="link_to_github_repository">Detecting Anomalous Transactions with Deep Learning</a></strong><br/>
+    Applied a convolutional neural network to identify anomalous patterns in transaction datasets, improving fraud detection.<br/>
+    <a href="link_to_github_repository">Explore the Repository</a>
+  </td>
+</tr>
+</table>
 
----
 
 
 ## 📜 Key Publications & Presentations
