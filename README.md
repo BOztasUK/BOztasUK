@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Berkan Oztas 🚀 - UNDER CONSTRUCTION
+# 👋 Hi, I'm Berkan Oztas 🚀 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/berkan-oztas) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/BOztasUK) 
