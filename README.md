@@ -82,7 +82,7 @@ Explore some of my key projects below, or see the full list in my [project portf
   <td><img src="link_to_image" alt="Local RAG" width="120"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Classify Weightlifting Exercises</a></strong><br/>
-    Applied a convolutional neural network to identify anomalous patterns in transaction datasets, improving fraud detection.<br/>
+    his project involves processing, visualising, and modelling real accelerometer and gyroscope data from a sensor to create a machine learning model that can classify weightlifting exercises.<br/>
     <a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Explore the Repository</a>
   </td>
 </tr>
