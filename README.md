@@ -10,6 +10,8 @@
 
 Collaborated with Danske Bank on AI models for transaction monitoring, presented research at international conferences, and created synthetic datasets now used by other researchers. Focused on leveraging data to solve complex problems and drive impactful solutions.
 
+---
+
 ### 🔬 Background & Skills
 
 - **Academic Background**: PhD in Computer Science, specialising in anti-money laundering and AI model development.
@@ -36,7 +38,6 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
----
 
 <table>
 <tr>
@@ -49,7 +50,6 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
----
 
 <table>
 <tr>
@@ -62,7 +62,6 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
----
 
 <table>
 <tr>
@@ -75,7 +74,6 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
----
 
 <table>
 <tr>
@@ -88,7 +86,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
-
+---
 
 
 ## 📜 Key Publications & Presentations
