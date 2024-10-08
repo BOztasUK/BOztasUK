@@ -43,7 +43,7 @@ Explore some of my key projects below, or see the full list in my [project portf
   <td><img src="assets/DALL·E 2023-12-20 17.40.36 - A minimalistic and abstract concept_ a blue background with a few US dollar bills placed randomly. The bills are partially unfolded and placed in a wa.png" alt="SAML-D" width="120"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Synthetic AML Transaction Dataset (SAML-D)</a></strong><br/>
-    Created a dataset to mimic real-world money laundering transactions, supporting researchers in developing better AML tools.<br/>
+    Created and analysed a dataset to mimic real-world money laundering transactions, supporting stakeholders and researchers in developing better AML tools.<br/>
     <a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Explore the Repository</a> | <a href="https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml">Kaggle</a>
   </td>
 </tr>
@@ -56,7 +56,7 @@ Explore some of my key projects below, or see the full list in my [project portf
   <td><img src="https://github.com/BOztasUK/BOztasUK/blob/78d72c8f6d6551b71403b6f81b3ce6c2a7fe6c89/assets/2023-11-Retrieval-augmented-generation-what-it-is-and-why-its-a-hot-topic-for-enterprise-AI-Blog-1.webp" alt="RAG Application" width="450"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/RAG-Langchain-OpenAI-Chromabd-Streamlit">RAG Application on Financial Data</a></strong><br/>
-    RAG: Langchain + OpenAI + Chroma + Streamlit is an interactive app for document analysis and question-answering. It supports various document formats, processes data efficiently, and uses embeddings for precise information retrieval. With a user-friendly Streamlit interface, it allows multi-document handling, context-aware responses, real-time feedback, and cost estimation, making it ideal for analyzing complex reports like the Bank of England’s Financial Stability Report.<br/>
+    RAG: Langchain + OpenAI + Chroma + Streamlit is an interactive app for document analysis and question-answering. It supports various document formats, processes data efficiently, and uses embeddings for precise information retrieval. With a user-friendly Streamlit interface, it allows multi-document handling, context-aware responses, and cost estimation, making it ideal for analysing reports like the Bank of England’s Financial Stability Report.<br/>
     <a href="https://github.com/BOztasUK/RAG-Langchain-OpenAI-Chromabd-Streamlit">Explore the Repository</a>
   </td>
 </tr>
@@ -69,7 +69,7 @@ Explore some of my key projects below, or see the full list in my [project portf
   <td><img src="https://github.com/BOztasUK/BOztasUK/blob/7687b8e3cd709ad8f61e445f98bdc6433f0214fa/assets/0_MdQptZxTpAALXfsv.png" alt="Local RAG" width="190"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Local-RAG">Simple Local RAG</a></strong><br/>
-    This project is a hands-on exploration of building a Retrieval-Augmented Generation (RAG) pipeline from scratch, focusing on understanding the core components without relying on major frameworks.<br/>
+    This project is a hands-on exploration of learning and building a Retrieval-Augmented Generation (RAG) pipeline from scratch, focusing on understanding the core components without relying on major frameworks.<br/>
     <a href="https://github.com/BOztasUK/Local-RAG">Explore the Repository</a>
   </td>
 </tr>
