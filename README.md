@@ -38,18 +38,16 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
-
 <table>
 <tr>
-  <td><img src="assets/DALL·E 2023-12-20 17.40.36 - A minimalistic and abstract concept_ a blue background with a few US dollar bills placed randomly. The bills are partially unfolded and placed in a wa.png" alt="SAML-D" width="150"/></td>
+  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/7687b8e3cd709ad8f61e445f98bdc6433f0214fa/assets/istockphoto-1335474486-612x612.jpg" alt="Classify Weightlifting Exercises" width="190"/></td>
   <td>
-    <strong><a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Synthetic AML Transaction Dataset (SAML-D)</a></strong><br/>
-    Created and analysed a dataset to mimic real-world money laundering transactions, supporting stakeholders and researchers in developing better AML tools.<br/>
-    <a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Explore the Repository</a> | <a href="https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml">Kaggle</a>
+    <strong><a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Classify Weightlifting Exercises</a></strong><br/>
+    This project involves processing, visualising, and modelling real accelerometer and gyroscope data from a sensor to create a machine learning model that can classify weightlifting exercises.<br/>
+    <a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Explore the Repository</a>
   </td>
 </tr>
 </table>
-
 
 <table>
 <tr>
@@ -62,6 +60,16 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
+<table>
+<tr>
+  <td><img src="assets/DALL·E 2023-12-20 17.40.36 - A minimalistic and abstract concept_ a blue background with a few US dollar bills placed randomly. The bills are partially unfolded and placed in a wa.png" alt="SAML-D" width="150"/></td>
+  <td>
+    <strong><a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Synthetic AML Transaction Dataset (SAML-D)</a></strong><br/>
+    Created and analysed a dataset to mimic real-world money laundering transactions, supporting stakeholders and researchers in developing better AML tools.<br/>
+    <a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Explore the Repository</a> | <a href="https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml">Kaggle</a>
+  </td>
+</tr>
+</table>
 
 <table>
 <tr>
@@ -74,20 +82,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 </tr>
 </table>
 
-
-<table>
-<tr>
-  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/7687b8e3cd709ad8f61e445f98bdc6433f0214fa/assets/istockphoto-1335474486-612x612.jpg" alt="Local RAG" width="190"/></td>
-  <td>
-    <strong><a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Classify Weightlifting Exercises</a></strong><br/>
-    This project involves processing, visualising, and modelling real accelerometer and gyroscope data from a sensor to create a machine learning model that can classify weightlifting exercises.<br/>
-    <a href="https://github.com/BOztasUK/Weightlifting-Exercise-Classification">Explore the Repository</a>
-  </td>
-</tr>
-</table>
-
 ---
-
 
 ## 📜 Key Publications & Presentations
 
