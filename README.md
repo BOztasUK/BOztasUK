@@ -27,9 +27,9 @@ Explore some of my key projects below, or see the full list in my [project portf
 <tr>
   <td><img src="link_to_image" alt="Tab-AML" width="120"/></td>
   <td>
-    <strong><a href="link_to_github_repository">Tab-AML: Enhancing Money Laundering Detection</a></strong><br/>
+    <strong><a href="https://github.com/BOztasUK/Transaction-Monitoring-Project">Tab-AML: Enhancing Money Laundering Detection</a></strong><br/>
     Developed an AI model that improved detection AUC score to 93%, reducing false alarms by 17%, and allowing banks to focus on high-risk activities.<br/>
-    <a href="link_to_github_repository">Explore the Repository</a>
+    <a href="https://github.com/BOztasUK/Transaction-Monitoring-Project">Explore the Repository</a>
   </td>
 </tr>
 </table>
