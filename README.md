@@ -88,19 +88,19 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 ## 🏆 Achievements & Certificates
 
-- **[Best Student Paper Award](#)** - 2023 IEEE International Conference on E-Business Engineering  
+- **[Best Student Paper Award](https://github.com/BOztasUK/BOztasUK/blob/f0e12295d51c72f2c4a69658f59086a27ff0f36e/assets/1704542954491.pdf)** - 2023 IEEE International Conference on E-Business Engineering  
   *Awarded for: "Enhancing Anti-Money Laundering: Development of a Synthetic Transaction Monitoring Dataset"*.
 
 - **[Research Student Presentation Competition Winner](https://github.com/BOztasUK/BOztasUK/blob/cb8438e8280f2095d8277af9853f2636dcf3023c/assets/1666034474415.pdf)** - 2022 IEEE International Conference on E-Business Engineering  
   *Awarded for: "Enhancing Transaction Monitoring Controls to Detect Money Laundering Using Machine Learning"*.
 
-- **[PyTorch for Deep Learning Bootcamp](#)** - Zero to Mastery, Issued Oct 2024  
+- **[PyTorch for Deep Learning Bootcamp](https://github.com/BOztasUK/BOztasUK/blob/f0e12295d51c72f2c4a69658f59086a27ff0f36e/assets/pytorch-for-deep-learning-bootcamp-zero-to-mastery.pdf)** - Zero to Mastery, Issued Oct 2024  
   *Credential ID: cert_6xmdqct4*.
 
-- **[Complete A.I. Machine Learning and Data Science](#)** - Zero to Mastery, Issued Jul 2024  
+- **[Complete A.I. Machine Learning and Data Science](https://github.com/BOztasUK/BOztasUK/blob/f0e12295d51c72f2c4a69658f59086a27ff0f36e/assets/certificate-of-completion-for-complete-machine-learning-and-data-science-zero-to-mastery.pdf)** - Zero to Mastery, Issued Jul 2024  
   *Credential ID: CERT_61R0W30D*.
 
-- **[Neural Networks and Deep Learning](#)** - DeepLearning.AI, Issued Aug 2023  
+- **[Neural Networks and Deep Learning](https://github.com/BOztasUK/BOztasUK/blob/f0e12295d51c72f2c4a69658f59086a27ff0f36e/assets/Coursera%20NM3JTDJ5MUEN.pdf)** - DeepLearning.AI, Issued Aug 2023  
   *Credential ID: NM3JTDJ5MUEN*.
 
 - **[Machine Learning](#)** - Stanford University (via Coursera), Issued May 2022
