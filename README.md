@@ -40,9 +40,9 @@ Explore some of my key projects below, or see the full list in my [project portf
 <tr>
   <td><img src="link_to_image" alt="SAML-D" width="120"/></td>
   <td>
-    <strong><a href="link_to_github_repository">Synthetic AML Transaction Dataset (SAML-D)</a></strong><br/>
+    <strong><a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Synthetic AML Transaction Dataset (SAML-D)</a></strong><br/>
     Created a dataset to mimic real-world money laundering transactions, supporting researchers in developing better AML tools.<br/>
-    <a href="link_to_github_repository">Explore the Repository</a> | <a href="https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml">Kaggle</a>
+    <a href="https://github.com/BOztasUK/Anti_Money_Laundering_Transaction_Data_SAML-D">Explore the Repository</a> | <a href="https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml">Kaggle</a>
   </td>
 </tr>
 </table>
@@ -51,11 +51,11 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 <table>
 <tr>
-  <td><img src="link_to_image" alt="Clustering Analysis" width="120"/></td>
+  <td><img src="link_to_image" alt="RAG Application" width="120"/></td>
   <td>
-    <strong><a href="link_to_github_repository">Clustering Analysis on Global Cancer Mortality Data</a></strong><br/>
+    <strong><a href="https://github.com/BOztasUK/RAG-Langchain-OpenAI-Chromabd-Streamlit">RAG Application on Financial Data</a></strong><br/>
     Conducted clustering analysis on global mortality data to uncover significant trends in healthcare disparities across countries.<br/>
-    <a href="link_to_github_repository">Explore the Repository</a>
+    <a href="https://github.com/BOztasUK/RAG-Langchain-OpenAI-Chromabd-Streamlit">Explore the Repository</a>
   </td>
 </tr>
 </table>
@@ -64,11 +64,11 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 <table>
 <tr>
-  <td><img src="link_to_image" alt="Anomalous Transactions" width="120"/></td>
+  <td><img src="link_to_image" alt="Local RAG" width="120"/></td>
   <td>
-    <strong><a href="link_to_github_repository">Detecting Anomalous Transactions with Deep Learning</a></strong><br/>
+    <strong><a href="https://github.com/BOztasUK/Local-RAG">Simple Local RAG</a></strong><br/>
     Applied a convolutional neural network to identify anomalous patterns in transaction datasets, improving fraud detection.<br/>
-    <a href="link_to_github_repository">Explore the Repository</a>
+    <a href="https://github.com/BOztasUK/Local-RAG">Explore the Repository</a>
   </td>
 </tr>
 </table>
