@@ -27,7 +27,7 @@ Explore some of my key projects below, or see the full list in my [project portf
 
 <table>
 <tr>
-  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/3d80c2f45deabf85debf3cedd66474e460716ba5/assets/business-concept-on-the-tablet-is-a-sheet-of-paper-with-the-inscription-aml-and-stickers-with-the-inscription-anti-money-laundering-next-to-the-2M5CCBK.jpg" alt="Tab-AML" width="250"/></td>
+  <td><img src="https://github.com/BOztasUK/BOztasUK/blob/3d80c2f45deabf85debf3cedd66474e460716ba5/assets/business-concept-on-the-tablet-is-a-sheet-of-paper-with-the-inscription-aml-and-stickers-with-the-inscription-anti-money-laundering-next-to-the-2M5CCBK.jpg" alt="Tab-AML" width="450"/></td>
   <td>
     <strong><a href="https://github.com/BOztasUK/Transaction-Monitoring-Project">Tab-AML: Enhancing Money Laundering Detection</a></strong><br/>
     Developed Tab-AML, a transformer-based model for improving anti-money laundering (AML) transaction monitoring. Compared to traditional and deep-learning models, Tab-AML achieved higher AUC score, reduced false positives, and increased true positive rates. Its success is driven by dual-masked transformer encoders, shared embedding, and a residual attention mechanism, proving the effectiveness of transformers in detecting suspicious activities.<br/>
